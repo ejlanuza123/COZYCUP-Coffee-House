@@ -12,8 +12,6 @@ Cozy Cup Cafe is a professional yet inviting website designed to represent a fic
 - **Menu Page:** Displays coffee and pastry options with descriptions and images.
 - **About Us Page:** Shares the story, mission, and team details of the cafe.
 - **Contact Page:** Includes an embedded map, contact form, and cafe information.
-- **Responsive Design:** Ensures compatibility across various devices.
-- **Smooth Page Transitions:** Sliding animation when navigating between pages.
 - **Newsletter Subscription:** Allows users to sign up for updates.
 - **Social Media Integration:** Links to the cafe’s Facebook and GitHub profiles.
 
