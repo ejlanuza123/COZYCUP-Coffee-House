@@ -45,7 +45,7 @@ header nav a:hover {
     position: relative;
     text-align: center;
     padding: 100px 20px;
-    background: url('background.jpg') no-repeat center center/cover;
+    background: url('../img/background.jpg') no-repeat center center/cover;
     color: #fff;
 }
 
