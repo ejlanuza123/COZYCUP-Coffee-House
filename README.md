@@ -40,8 +40,10 @@ A simple contact form with an embedded map for easy navigation.
 ## About the Authors
 
 ### **Rodrigo M. Lanuza III**
-<img src="authors/owner.jpg" alt="Rodrigo Lanuza" width="150" style="border-radius: 50%; margin-top: 10px;">  
+<img src="authors/owner.jpg" alt="Rodrigo Lanuza" width="150" style="border-radius: 50%; margin-top: 10px;">
+
 **Name:** Rodrigo M. Lanuza III  
+
 **Email:** [ejlanuza0123@gmail.com](mailto:ejlanuza0123@gmail.com)  
 
 <a href="https://www.facebook.com/ej.r.lanuza/" target="_blank">
@@ -55,7 +57,9 @@ A simple contact form with an embedded map for easy navigation.
 
 ### **Franz Meinard N. Chang**
 <img src="authors/staff.jpg" alt="Franz Meinard Chang" width="150" style="border-radius: 50%; margin-top: 10px;">  
+
 **Name:** Franz Meinard N. Chang  
+
 **Email:** [franzmeinardchang10@gmail.com](mailto:franzmeinardchang10@gmail.com)  
 
 <a href="https://www.facebook.com/15cvod31yf/" target="_blank">
