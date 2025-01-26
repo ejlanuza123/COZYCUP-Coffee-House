@@ -20,22 +20,47 @@ Cozy Cup Cafe is a professional yet inviting website designed to represent a fic
 ## Screen Captures
 
 ### **Home Page**
+![Home Page](screenshot/home.png)  
+A warm and inviting hero section with a featured coffee product and a tagline.
 
 ### **Menu Page**
+![Menu Page](screenshot/menu.png)  
+An attractive menu displaying coffee and pastry options with clear descriptions.
 
 ### **About Us Page**
+![About Us Page](screenshot/about.png)  
+A page that tells the story of the cafe and introduces the team.
 
 ### **Contact Page**
+![Contact Page](screenshot/contact.png)  
+A simple contact form with an embedded map for easy navigation.
 
 ---
 
 ## About the Authors
 
-- **Name:** Rodrigo M. Lanuza III
-- **Email:** [ejlanuza0123@gmail.com](mailto\:ejlanuza0123@gmail.com)
+### **Rodrigo M. Lanuza III**
+<img src="authors/owner.jpg" alt="Rodrigo Lanuza" width="150" style="border-radius: 50%; margin-top: 10px;">  
+**Name:** Rodrigo M. Lanuza III  
+**Email:** [ejlanuza0123@gmail.com](mailto:ejlanuza0123@gmail.com)  
 
-### Social Profiles
+<a href="https://www.facebook.com/ej.r.lanuza/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Facebook.svg" width="30" alt="Facebook">
+</a>
+<a href="https://github.com/ejlanuza0123" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Github.svg" width="30" alt="GitHub">
+</a>
 
-- [https://www.facebook.com/ej.r.lanuza/](https://www.facebook.com/ej.r.lanuza/)
-- https\://github.com/settings/profile
+---
 
+### **Franz Meinard N. Chang**
+<img src="authors/staff.jpg" alt="Franz Meinard Chang" width="150" style="border-radius: 50%; margin-top: 10px;">  
+**Name:** Franz Meinard N. Chang  
+**Email:** [franzmeinardchang10@gmail.com](mailto:franzmeinardchang10@gmail.com)  
+
+<a href="https://www.facebook.com/15cvod31yf/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Facebook.svg" width="30" alt="Facebook">
+</a>
+<a href="https://github.com/LoztCauz" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Github.svg" width="30" alt="GitHub">
+</a>
