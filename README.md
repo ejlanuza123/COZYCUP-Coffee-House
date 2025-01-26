@@ -40,14 +40,14 @@ A simple contact form with an embedded map for easy navigation.
 ## About the Authors
 
 ### **Rodrigo M. Lanuza III**
-<img src="authors/owner.jpg" alt="Rodrigo Lanuza" width="150" style="border-radius: 50%; margin-top: 10px;">
+<img src="https://github.com/ejlanuza123.png" alt="Rodrigo M. Lanuza III" width="150" style="border-radius: 50%;">
 
 **Name:** Rodrigo M. Lanuza III  
 
 **Email:** [ejlanuza0123@gmail.com](mailto:ejlanuza0123@gmail.com)  
 
 <a href="https://www.facebook.com/ej.r.lanuza/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Facebook.svg" width="30" alt="Facebook">
+    <img src="img/facebook.png" width="30" alt="Facebook">
 </a>
 <a href="https://github.com/ejlanuza0123" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Github.svg" width="30" alt="GitHub">
@@ -63,7 +63,7 @@ A simple contact form with an embedded map for easy navigation.
 **Email:** [franzmeinardchang10@gmail.com](mailto:franzmeinardchang10@gmail.com)  
 
 <a href="https://www.facebook.com/15cvod31yf/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Facebook.svg" width="30" alt="Facebook">
+    <img src="img/facebook.png" width="30" alt="Facebook">
 </a>
 <a href="https://github.com/LoztCauz" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@main/SVG/Color/Github.svg" width="30" alt="GitHub">
